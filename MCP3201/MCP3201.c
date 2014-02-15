@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <stdbool.h>       // Includes true/false definition
 
-#include "../Includes/bb_spi/bb_spi.h"
+#include "../spi_serial/spi.h"
 #include "MCP3201.h"
 
 /** Functions ************************************************************************************/
